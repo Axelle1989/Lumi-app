@@ -1,0 +1,10 @@
+{
+  "name": "Lumi - Grandir, Créer, Guérir et Réussir Ensemble",
+  "description": "Plateforme globale de développement personnel, créativité, bien-être, coaching IA et communauté positive d'entraide.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
